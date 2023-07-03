@@ -1,3 +1,5 @@
+**NOTE:** This is just a fork of the regular [OSQP Repository](https://github.com/osqp/osqp) reset to a specific commit to provide a stable base for our custom [ROS Docker Image](https://github.com/ka-raceing/ROS-Docker)
+
 # BLASFEO - BLAS For Embedded Optimization
 
 BLASFEO provides a set of basic linear algebra routines, performance-optimized for matrices that fit in cache (i.e. generally up to a couple hundred size in each dimension), as typically encountered in embedded optimization applications.
